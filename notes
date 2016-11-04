@@ -1,0 +1,17 @@
+Coherence Protocol Notes:
+1. Check state and then respond
+2. Different parts for processor and bus transactions
+3. Go to correct next state; send bus transaction to OTHER caches
+4. Follow FSM for processor side as well as bus side
+
+PrWr - 'w'
+PrRd - 'r'
+BusRd - 'd'
+BusRdX - 'x'
+BusUpgrade - ‘u’
+BusUpdate - ‘p’
+
+How to implement multiple protocols simultaneously?
+Use different Access function calls.
+
+How to implement update in Dragon?

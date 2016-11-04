@@ -1,0 +1,567 @@
+===== 506 Personal information =====
+FirstName Parth LastName Bhogate
+UnityID 200108628
+ECE492 Students? NO
+===== 506 SMP Simulator configuration =====
+L1_SIZE: 1048576
+L1_ASSOC: 8
+L1_BLOCKSIZE: 64
+NUMBER OF PROCESSORS: 4
+COHERENCE PROTOCOL: MSI
+TRACE FILE: trace/canneal.04t.longTrace
+============ Simulation results (Cache 0) ============
+01. number of reads:      	112661
+02. number of read misses:	5752
+03. number of writes:     	11942
+04. number of write misses:	39
+05. total miss rate:      	4.65%
+06. number of writebacks: 	170
+07. number of cache-to-cache transfers: 0
+08. number of memory transactions: 6638
+09. number of interventions:	71
+10. number of invalidations:	2014
+11. number of flushes:    	116
+12. number of BusRdX:     	716
+============ Simulation results (Cache 1) ============
+01. number of reads:      	110830
+02. number of read misses:	5781
+03. number of writes:     	11710
+04. number of write misses:	41
+05. total miss rate:      	4.75%
+06. number of writebacks: 	155
+07. number of cache-to-cache transfers: 0
+08. number of memory transactions: 6636
+09. number of interventions:	48
+10. number of invalidations:	2034
+11. number of flushes:    	93
+12. number of BusRdX:     	700
+============ Simulation results (Cache 2) ============
+01. number of reads:      	114938
+02. number of read misses:	5752
+03. number of writes:     	12383
+04. number of write misses:	42
+05. total miss rate:      	4.55%
+06. number of writebacks: 	186
+07. number of cache-to-cache transfers: 0
+08. number of memory transactions: 6663
+09. number of interventions:	82
+10. number of invalidations:	2008
+11. number of flushes:    	121
+12. number of BusRdX:     	725
+============ Simulation results (Cache 3) ============
+01. number of reads:      	113428
+02. number of read misses:	5790
+03. number of writes:     	12108
+04. number of write misses:	39
+05. total miss rate:      	4.64%
+06. number of writebacks: 	157
+07. number of cache-to-cache transfers: 0
+08. number of memory transactions: 6661
+09. number of interventions:	64
+10. number of invalidations:	2020
+11. number of flushes:    	89
+12. number of BusRdX:     	714
+===== 506 Personal information =====
+FirstName Parth LastName Bhogate
+UnityID 200108628
+ECE492 Students? NO
+===== 506 SMP Simulator configuration =====
+L1_SIZE: 1048576
+L1_ASSOC: 8
+L1_BLOCKSIZE: 128
+NUMBER OF PROCESSORS: 4
+COHERENCE PROTOCOL: MSI
+TRACE FILE: trace/canneal.04t.longTrace
+============ Simulation results (Cache 0) ============
+01. number of reads:      	112661
+02. number of read misses:	5340
+03. number of writes:     	11942
+04. number of write misses:	39
+05. total miss rate:      	4.32%
+06. number of writebacks: 	275
+07. number of cache-to-cache transfers: 0
+08. number of memory transactions: 6344
+09. number of interventions:	119
+10. number of invalidations:	2066
+11. number of flushes:    	164
+12. number of BusRdX:     	729
+============ Simulation results (Cache 1) ============
+01. number of reads:      	110830
+02. number of read misses:	5386
+03. number of writes:     	11710
+04. number of write misses:	40
+05. total miss rate:      	4.43%
+06. number of writebacks: 	250
+07. number of cache-to-cache transfers: 0
+08. number of memory transactions: 6347
+09. number of interventions:	84
+10. number of invalidations:	2089
+11. number of flushes:    	129
+12. number of BusRdX:     	711
+============ Simulation results (Cache 2) ============
+01. number of reads:      	114938
+02. number of read misses:	5341
+03. number of writes:     	12383
+04. number of write misses:	42
+05. total miss rate:      	4.23%
+06. number of writebacks: 	283
+07. number of cache-to-cache transfers: 0
+08. number of memory transactions: 6369
+09. number of interventions:	127
+10. number of invalidations:	2053
+11. number of flushes:    	166
+12. number of BusRdX:     	745
+============ Simulation results (Cache 3) ============
+01. number of reads:      	113428
+02. number of read misses:	5384
+03. number of writes:     	12108
+04. number of write misses:	39
+05. total miss rate:      	4.32%
+06. number of writebacks: 	269
+07. number of cache-to-cache transfers: 0
+08. number of memory transactions: 6386
+09. number of interventions:	110
+10. number of invalidations:	2068
+11. number of flushes:    	135
+12. number of BusRdX:     	733
+===== 506 Personal information =====
+FirstName Parth LastName Bhogate
+UnityID 200108628
+ECE492 Students? NO
+===== 506 SMP Simulator configuration =====
+L1_SIZE: 1048576
+L1_ASSOC: 8
+L1_BLOCKSIZE: 256
+NUMBER OF PROCESSORS: 4
+COHERENCE PROTOCOL: MSI
+TRACE FILE: trace/canneal.04t.longTrace
+============ Simulation results (Cache 0) ============
+01. number of reads:      	112661
+02. number of read misses:	5023
+03. number of writes:     	11942
+04. number of write misses:	39
+05. total miss rate:      	4.06%
+06. number of writebacks: 	363
+07. number of cache-to-cache transfers: 0
+08. number of memory transactions: 6137
+09. number of interventions:	166
+10. number of invalidations:	2132
+11. number of flushes:    	211
+12. number of BusRdX:     	751
+============ Simulation results (Cache 1) ============
+01. number of reads:      	110830
+02. number of read misses:	5070
+03. number of writes:     	11710
+04. number of write misses:	40
+05. total miss rate:      	4.17%
+06. number of writebacks: 	342
+07. number of cache-to-cache transfers: 0
+08. number of memory transactions: 6147
+09. number of interventions:	133
+10. number of invalidations:	2157
+11. number of flushes:    	178
+12. number of BusRdX:     	735
+============ Simulation results (Cache 2) ============
+01. number of reads:      	114938
+02. number of read misses:	5004
+03. number of writes:     	12383
+04. number of write misses:	42
+05. total miss rate:      	3.96%
+06. number of writebacks: 	383
+07. number of cache-to-cache transfers: 0
+08. number of memory transactions: 6167
+09. number of interventions:	192
+10. number of invalidations:	2107
+11. number of flushes:    	231
+12. number of BusRdX:     	780
+============ Simulation results (Cache 3) ============
+01. number of reads:      	113428
+02. number of read misses:	5084
+03. number of writes:     	12108
+04. number of write misses:	39
+05. total miss rate:      	4.08%
+06. number of writebacks: 	332
+07. number of cache-to-cache transfers: 0
+08. number of memory transactions: 6159
+09. number of interventions:	145
+10. number of invalidations:	2148
+11. number of flushes:    	170
+12. number of BusRdX:     	743
+===== 506 Personal information =====
+FirstName Parth LastName Bhogate
+UnityID 200108628
+ECE492 Students? NO
+===== 506 SMP Simulator configuration =====
+L1_SIZE: 1048576
+L1_ASSOC: 8
+L1_BLOCKSIZE: 64
+NUMBER OF PROCESSORS: 4
+COHERENCE PROTOCOL: MESI
+TRACE FILE: trace/canneal.04t.longTrace
+============ Simulation results (Cache 0) ============
+01. number of reads:      	112661
+02. number of read misses:	5752
+03. number of writes:     	11942
+04. number of write misses:	39
+05. total miss rate:      	4.65%
+06. number of writebacks: 	170
+07. number of cache-to-cache transfers: 4389
+08. number of memory transactions: 1572
+09. number of interventions:	1464
+10. number of invalidations:	2014
+11. number of flushes:    	116
+12. number of BusRdX:     	39
+============ Simulation results (Cache 1) ============
+01. number of reads:      	110830
+02. number of read misses:	5781
+03. number of writes:     	11710
+04. number of write misses:	41
+05. total miss rate:      	4.75%
+06. number of writebacks: 	155
+07. number of cache-to-cache transfers: 4422
+08. number of memory transactions: 1555
+09. number of interventions:	1428
+10. number of invalidations:	2034
+11. number of flushes:    	93
+12. number of BusRdX:     	41
+============ Simulation results (Cache 2) ============
+01. number of reads:      	114938
+02. number of read misses:	5752
+03. number of writes:     	12383
+04. number of write misses:	42
+05. total miss rate:      	4.55%
+06. number of writebacks: 	186
+07. number of cache-to-cache transfers: 4393
+08. number of memory transactions: 1587
+09. number of interventions:	1464
+10. number of invalidations:	2008
+11. number of flushes:    	121
+12. number of BusRdX:     	42
+============ Simulation results (Cache 3) ============
+01. number of reads:      	113428
+02. number of read misses:	5790
+03. number of writes:     	12108
+04. number of write misses:	39
+05. total miss rate:      	4.64%
+06. number of writebacks: 	157
+07. number of cache-to-cache transfers: 4395
+08. number of memory transactions: 1591
+09. number of interventions:	1474
+10. number of invalidations:	2020
+11. number of flushes:    	89
+12. number of BusRdX:     	39
+===== 506 Personal information =====
+FirstName Parth LastName Bhogate
+UnityID 200108628
+ECE492 Students? NO
+===== 506 SMP Simulator configuration =====
+L1_SIZE: 1048576
+L1_ASSOC: 8
+L1_BLOCKSIZE: 128
+NUMBER OF PROCESSORS: 4
+COHERENCE PROTOCOL: MESI
+TRACE FILE: trace/canneal.04t.longTrace
+============ Simulation results (Cache 0) ============
+01. number of reads:      	112661
+02. number of read misses:	5340
+03. number of writes:     	11942
+04. number of write misses:	39
+05. total miss rate:      	4.32%
+06. number of writebacks: 	275
+07. number of cache-to-cache transfers: 4124
+08. number of memory transactions: 1530
+09. number of interventions:	1367
+10. number of invalidations:	2066
+11. number of flushes:    	164
+12. number of BusRdX:     	39
+============ Simulation results (Cache 1) ============
+01. number of reads:      	110830
+02. number of read misses:	5386
+03. number of writes:     	11710
+04. number of write misses:	40
+05. total miss rate:      	4.43%
+06. number of writebacks: 	250
+07. number of cache-to-cache transfers: 4155
+08. number of memory transactions: 1521
+09. number of interventions:	1337
+10. number of invalidations:	2089
+11. number of flushes:    	129
+12. number of BusRdX:     	40
+============ Simulation results (Cache 2) ============
+01. number of reads:      	114938
+02. number of read misses:	5341
+03. number of writes:     	12383
+04. number of write misses:	42
+05. total miss rate:      	4.23%
+06. number of writebacks: 	283
+07. number of cache-to-cache transfers: 4115
+08. number of memory transactions: 1551
+09. number of interventions:	1377
+10. number of invalidations:	2053
+11. number of flushes:    	166
+12. number of BusRdX:     	42
+============ Simulation results (Cache 3) ============
+01. number of reads:      	113428
+02. number of read misses:	5384
+03. number of writes:     	12108
+04. number of write misses:	39
+05. total miss rate:      	4.32%
+06. number of writebacks: 	269
+07. number of cache-to-cache transfers: 4125
+08. number of memory transactions: 1567
+09. number of interventions:	1385
+10. number of invalidations:	2068
+11. number of flushes:    	135
+12. number of BusRdX:     	39
+===== 506 Personal information =====
+FirstName Parth LastName Bhogate
+UnityID 200108628
+ECE492 Students? NO
+===== 506 SMP Simulator configuration =====
+L1_SIZE: 1048576
+L1_ASSOC: 8
+L1_BLOCKSIZE: 256
+NUMBER OF PROCESSORS: 4
+COHERENCE PROTOCOL: MESI
+TRACE FILE: trace/canneal.04t.longTrace
+============ Simulation results (Cache 0) ============
+01. number of reads:      	112661
+02. number of read misses:	5023
+03. number of writes:     	11942
+04. number of write misses:	39
+05. total miss rate:      	4.06%
+06. number of writebacks: 	363
+07. number of cache-to-cache transfers: 3938
+08. number of memory transactions: 1487
+09. number of interventions:	1283
+10. number of invalidations:	2132
+11. number of flushes:    	211
+12. number of BusRdX:     	39
+============ Simulation results (Cache 1) ============
+01. number of reads:      	110830
+02. number of read misses:	5070
+03. number of writes:     	11710
+04. number of write misses:	40
+05. total miss rate:      	4.17%
+06. number of writebacks: 	342
+07. number of cache-to-cache transfers: 3943
+08. number of memory transactions: 1509
+09. number of interventions:	1284
+10. number of invalidations:	2157
+11. number of flushes:    	178
+12. number of BusRdX:     	40
+============ Simulation results (Cache 2) ============
+01. number of reads:      	114938
+02. number of read misses:	5004
+03. number of writes:     	12383
+04. number of write misses:	42
+05. total miss rate:      	3.96%
+06. number of writebacks: 	383
+07. number of cache-to-cache transfers: 3903
+08. number of memory transactions: 1526
+09. number of interventions:	1321
+10. number of invalidations:	2107
+11. number of flushes:    	231
+12. number of BusRdX:     	42
+============ Simulation results (Cache 3) ============
+01. number of reads:      	113428
+02. number of read misses:	5084
+03. number of writes:     	12108
+04. number of write misses:	39
+05. total miss rate:      	4.08%
+06. number of writebacks: 	332
+07. number of cache-to-cache transfers: 3939
+08. number of memory transactions: 1516
+09. number of interventions:	1309
+10. number of invalidations:	2148
+11. number of flushes:    	170
+12. number of BusRdX:     	39
+===== 506 Personal information =====
+FirstName Parth LastName Bhogate
+UnityID 200108628
+ECE492 Students? NO
+===== 506 SMP Simulator configuration =====
+L1_SIZE: 1048576
+L1_ASSOC: 8
+L1_BLOCKSIZE: 64
+NUMBER OF PROCESSORS: 4
+COHERENCE PROTOCOL: Dragon
+TRACE FILE: trace/canneal.04t.longTrace
+============ Simulation results (Cache 0) ============
+01. number of reads:      	112661
+02. number of read misses:	5595
+03. number of writes:     	11942
+04. number of write misses:	3
+05. total miss rate:      	4.49%
+06. number of writebacks: 	107
+07. number of cache-to-cache transfers: 0
+08. number of memory transactions: 5705
+09. number of interventions:	1398
+10. number of invalidations:	0
+11. number of flushes:    	3
+12. number of BusRdX:     	0
+============ Simulation results (Cache 1) ============
+01. number of reads:      	110830
+02. number of read misses:	5604
+03. number of writes:     	11710
+04. number of write misses:	2
+05. total miss rate:      	4.57%
+06. number of writebacks: 	110
+07. number of cache-to-cache transfers: 0
+08. number of memory transactions: 5716
+09. number of interventions:	1387
+10. number of invalidations:	0
+11. number of flushes:    	9
+12. number of BusRdX:     	0
+============ Simulation results (Cache 2) ============
+01. number of reads:      	114938
+02. number of read misses:	5604
+03. number of writes:     	12383
+04. number of write misses:	2
+05. total miss rate:      	4.4%
+06. number of writebacks: 	105
+07. number of cache-to-cache transfers: 0
+08. number of memory transactions: 5711
+09. number of interventions:	1387
+10. number of invalidations:	0
+11. number of flushes:    	6
+12. number of BusRdX:     	0
+============ Simulation results (Cache 3) ============
+01. number of reads:      	113428
+02. number of read misses:	5611
+03. number of writes:     	12108
+04. number of write misses:	0
+05. total miss rate:      	4.47%
+06. number of writebacks: 	123
+07. number of cache-to-cache transfers: 0
+08. number of memory transactions: 5734
+09. number of interventions:	1417
+10. number of invalidations:	0
+11. number of flushes:    	6
+12. number of BusRdX:     	0
+===== 506 Personal information =====
+FirstName Parth LastName Bhogate
+UnityID 200108628
+ECE492 Students? NO
+===== 506 SMP Simulator configuration =====
+L1_SIZE: 1048576
+L1_ASSOC: 8
+L1_BLOCKSIZE: 128
+NUMBER OF PROCESSORS: 4
+COHERENCE PROTOCOL: Dragon
+TRACE FILE: trace/canneal.04t.longTrace
+============ Simulation results (Cache 0) ============
+01. number of reads:      	112661
+02. number of read misses:	5069
+03. number of writes:     	11942
+04. number of write misses:	3
+05. total miss rate:      	4.07%
+06. number of writebacks: 	145
+07. number of cache-to-cache transfers: 0
+08. number of memory transactions: 5217
+09. number of interventions:	1256
+10. number of invalidations:	0
+11. number of flushes:    	3
+12. number of BusRdX:     	0
+============ Simulation results (Cache 1) ============
+01. number of reads:      	110830
+02. number of read misses:	5080
+03. number of writes:     	11710
+04. number of write misses:	1
+05. total miss rate:      	4.15%
+06. number of writebacks: 	149
+07. number of cache-to-cache transfers: 0
+08. number of memory transactions: 5230
+09. number of interventions:	1266
+10. number of invalidations:	0
+11. number of flushes:    	9
+12. number of BusRdX:     	0
+============ Simulation results (Cache 2) ============
+01. number of reads:      	114938
+02. number of read misses:	5080
+03. number of writes:     	12383
+04. number of write misses:	2
+05. total miss rate:      	3.99%
+06. number of writebacks: 	145
+07. number of cache-to-cache transfers: 0
+08. number of memory transactions: 5227
+09. number of interventions:	1257
+10. number of invalidations:	0
+11. number of flushes:    	6
+12. number of BusRdX:     	0
+============ Simulation results (Cache 3) ============
+01. number of reads:      	113428
+02. number of read misses:	5086
+03. number of writes:     	12108
+04. number of write misses:	0
+05. total miss rate:      	4.05%
+06. number of writebacks: 	160
+07. number of cache-to-cache transfers: 0
+08. number of memory transactions: 5246
+09. number of interventions:	1287
+10. number of invalidations:	0
+11. number of flushes:    	9
+12. number of BusRdX:     	0
+===== 506 Personal information =====
+FirstName Parth LastName Bhogate
+UnityID 200108628
+ECE492 Students? NO
+===== 506 SMP Simulator configuration =====
+L1_SIZE: 1048576
+L1_ASSOC: 8
+L1_BLOCKSIZE: 256
+NUMBER OF PROCESSORS: 4
+COHERENCE PROTOCOL: Dragon
+TRACE FILE: trace/canneal.04t.longTrace
+============ Simulation results (Cache 0) ============
+01. number of reads:      	112661
+02. number of read misses:	4628
+03. number of writes:     	11942
+04. number of write misses:	3
+05. total miss rate:      	3.72%
+06. number of writebacks: 	198
+07. number of cache-to-cache transfers: 0
+08. number of memory transactions: 4829
+09. number of interventions:	1125
+10. number of invalidations:	0
+11. number of flushes:    	3
+12. number of BusRdX:     	0
+============ Simulation results (Cache 1) ============
+01. number of reads:      	110830
+02. number of read misses:	4633
+03. number of writes:     	11710
+04. number of write misses:	1
+05. total miss rate:      	3.78%
+06. number of writebacks: 	200
+07. number of cache-to-cache transfers: 0
+08. number of memory transactions: 4834
+09. number of interventions:	1175
+10. number of invalidations:	0
+11. number of flushes:    	11
+12. number of BusRdX:     	0
+============ Simulation results (Cache 2) ============
+01. number of reads:      	114938
+02. number of read misses:	4630
+03. number of writes:     	12383
+04. number of write misses:	2
+05. total miss rate:      	3.64%
+06. number of writebacks: 	185
+07. number of cache-to-cache transfers: 0
+08. number of memory transactions: 4817
+09. number of interventions:	1143
+10. number of invalidations:	0
+11. number of flushes:    	9
+12. number of BusRdX:     	0
+============ Simulation results (Cache 3) ============
+01. number of reads:      	113428
+02. number of read misses:	4640
+03. number of writes:     	12108
+04. number of write misses:	0
+05. total miss rate:      	3.7%
+06. number of writebacks: 	196
+07. number of cache-to-cache transfers: 0
+08. number of memory transactions: 4836
+09. number of interventions:	1176
+10. number of invalidations:	0
+11. number of flushes:    	9
+12. number of BusRdX:     	0
